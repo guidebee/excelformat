@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="209" uniqueCount="69"><si><t>Version</t></si><si><t>Optional for own reference.</t></si><si><t>Mandatory</t></si><si><t>Optional</t></si><si><t>Mandatory if:
+- Notification Type is Engineering Requirement.
+- Required End Rationale is filled.</t></si><si><t>Mandatory if Required End Date is filled.</t></si><si><t>Will be defaulted if left blank, based on Functional Location</t></si><si><t>Mandatory if Task List is filled</t></si><si><t>Optional if Event Report. If not Event Report, leave blank.</t></si><si><t>Optional. Add all the attachments in a single compressed (.zip) file.</t></si><si><t>Optional. Please add new line for multiple documents.</t></si><si><t>Mandatory if:
+- Notification Type is Engineering Requirement or 
+- Notification Type is Investigation or
+- Subsequent Work Request from Engineering Requirement.
+
+Else, leave blank.</t></si><si><t>Will be defaulted if left blank, based on Linear Functional Location</t></si><si><t xml:space="preserve">Optional, populate only for Linear Functional Location
+</t></si><si><t>Mandatory when Type Offset 1 is populated. Enter a numeric value</t></si><si><t>Mandatory when Type Offset 1 is populated.</t></si><si><t>Mandatory if Type Offset 2 is populated. Enter a numeric value</t></si><si><t>Mandatory if Type Offset 2 is populated.</t></si><si><t>Notification No.</t></si><si><t>Reference No.</t></si><si><t>Functional Location</t></si><si><t>Notification  Description</t></si><si><t>Notification Long Text</t></si><si><t>Coding</t></si><si><t>Reported By</t></si><si><t>Priority</t></si><si><t>Required End Date</t></si><si><t>Required End Rationale</t></si><si><t>Planner Group</t></si><si><t>Planning Plant</t></si><si><t>Main Work Centre</t></si><si><t>Main Work Centre Plant</t></si><si><t>Task List</t></si><si><t>Group Counter</t></si><si><t>Damage</t></si><si><t>Damage Text</t></si><si><t>Cause</t></si><si><t>Cause Text</t></si><si><t>Prior Notification</t></si><si><t>Uncontrolled Documents</t></si><si><t>Controlled Documents</t></si><si><t>Resources</t></si><si><t>Start Point</t></si><si><t>End Point</t></si><si><t>Unit of Measure</t></si><si><t>Type Offset 1</t></si><si><t>Offset 1</t></si><si><t>UoM Off.1</t></si><si><t>Type Offset 2</t></si><si><t>Offset 2</t></si><si><t>UoM Off.2</t></si><si><t>new add work</t></si><si><t>Brief description of what occurred:
+with flag id
+--------------------------------------------
+Immediate action taken:
+action 1taken sample,optional1
+--------------------------------------------
+Define work requirements; including materials, specialist labour and tools
+noting needed,optional
+--------------------------------------------
+Define any equipment constraints
+restraints, optional
+--------------------------------------------
+Define any other information to support work requirements
+test  12audit log,optional
+--------------------------------------------</t></si><si><t>Event Report S001</t></si><si><t>Bob Jones</t></si><si><t>2 Urgent</t></si><si><t>Brief description of what occurred:
+
+--------------------------------------------
+Immediate action taken:
+
+--------------------------------------------
+Define work requirements; including materials, specialist labour and tools
+
+--------------------------------------------
+Define any equipment constraints
+
+--------------------------------------------
+Define any other information to support work requirements
+
+--------------------------------------------</t></si><si><t>new add work3</t></si><si><t>Brief description of what occurred:
+This is the no 121e2w1e
+--------------------------------------------
+Immediate action taken:
+action 1taken sample,optional1
+--------------------------------------------
+Define work requirements; including materials, specialist labour and tools
+noting needed,optional
+--------------------------------------------
+Define any equipment constraints
+restraints, optional
+--------------------------------------------
+Define any other information to support work requirements
+test  12audit log,optional
+--------------------------------------------</t></si><si><t>new add work2</t></si><si><t>new add work1</t></si><si><t>new sub notif2</t></si><si><t>424585435</t></si><si><t>new sub notif1</t></si><si><t>new sub notif</t></si><si><t>new sub</t></si><si><t>421174377</t></si><si><t>james</t></si><si><t>Brief description of what occurred:
+with flag id2
+--------------------------------------------
+Immediate action taken:
+action 1taken sample,optional1
+--------------------------------------------
+Define work requirements; including materials, specialist labour and tools
+noting needed,optional
+--------------------------------------------
+Define any equipment constraints
+restraints, optional
+--------------------------------------------
+Define any other information to support work requirements
+test  12audit log,optional
+--------------------------------------------</t></si></sst>
